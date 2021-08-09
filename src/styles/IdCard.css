@@ -1,0 +1,5 @@
+.IdCard-container {
+    display: flex;
+    border: 1px black solid;
+    width: 500px;
+}

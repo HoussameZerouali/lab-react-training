@@ -1,0 +1,22 @@
+
+.CreditCard-container {
+    width: 250px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    border: 1px black solid;
+}
+
+.Logo-container {
+    display: flex;
+    justify-content: flex-end;
+    
+    
+}
+
+.Logo-container img{
+    height: 40px;
+    width: 60px;
+    
+}

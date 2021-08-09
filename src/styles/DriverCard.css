@@ -1,0 +1,22 @@
+.DriverCard-container {
+    display: flex;
+    justify-content: center;
+    background-color: royalblue;
+    width: 550px;
+    border-radius: 5%;
+    margin-bottom: 10px;
+}
+
+.Image-container img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.Driver-infos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    
+}
